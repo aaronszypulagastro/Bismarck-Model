@@ -1,0 +1,12 @@
+# Bismarck Trading Dependencies
+requests
+openai
+anthropic
+alpaca-py
+yfinance
+pandas
+numpy
+pytest
+pytest-asyncio
+duckdb
+xgboost
